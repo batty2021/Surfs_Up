@@ -13,10 +13,12 @@ Using Python, SQLAlchemy , and Flask , analyze and visualize climate data as we 
  To access the analysis data, i have Used SQLAlchamy ORM , which allows me to Query the data by passing Python objects as queries.Then the data transformed within a python enviroment and analyzed in Summary Statistics.
  
  June Temprature Summary Statistics
- ![Resources/June_summary_statistics.png]
+ ![June_summary_statistics](https://user-images.githubusercontent.com/77947860/155770807-55cb374f-271a-4955-bec1-2770bc193ad4.png)
+
  
  December Temprature Summary Statistics
-![Resources/Dec_summary_statistics.png]
+![Dec_summary_statistics](https://user-images.githubusercontent.com/77947860/155770892-171d7b0f-f106-4c92-b9f0-20e58789e866.png)
+
 
 # Summary
    Through querying and analyzing the spread of weather for this data , it is safe to say that while December is colder but still possible to run a business focused on outdoor activities in Oahu even colder months.
